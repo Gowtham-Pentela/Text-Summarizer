@@ -1,0 +1,31 @@
+# Core ML and NLP
+transformers
+datasets
+evaluate
+huggingface-hub
+tokenizers
+sentencepiece
+scipy
+scikit-learn
+pandas
+matplotlib
+tqdm
+jinja2
+pyyaml
+python-dotenv
+accelerate
+torch
+
+# Web app frameworks
+fastapi
+uvicorn[standard]  # for FastAPI server
+streamlit          # optional: for Streamlit apps
+
+# CORS and HTTP utils
+httpx
+aiohttp
+requests
+
+
+
+-e .
